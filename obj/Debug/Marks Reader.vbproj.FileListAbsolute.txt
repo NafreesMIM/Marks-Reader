@@ -1,0 +1,12 @@
+D:\Projects\VB Projects\Marks Reader\bin\Debug\Marks Reader.exe.config
+D:\Projects\VB Projects\Marks Reader\bin\Debug\Marks Reader.exe
+D:\Projects\VB Projects\Marks Reader\bin\Debug\Marks Reader.pdb
+D:\Projects\VB Projects\Marks Reader\bin\Debug\Marks Reader.xml
+D:\Projects\VB Projects\Marks Reader\obj\Debug\Marks Reader.vbproj.AssemblyReference.cache
+D:\Projects\VB Projects\Marks Reader\obj\Debug\Marks_Reader.Form1.resources
+D:\Projects\VB Projects\Marks Reader\obj\Debug\Marks_Reader.Resources.resources
+D:\Projects\VB Projects\Marks Reader\obj\Debug\Marks Reader.vbproj.GenerateResource.cache
+D:\Projects\VB Projects\Marks Reader\obj\Debug\Marks Reader.vbproj.CoreCompileInputs.cache
+D:\Projects\VB Projects\Marks Reader\obj\Debug\Marks Reader.exe
+D:\Projects\VB Projects\Marks Reader\obj\Debug\Marks Reader.xml
+D:\Projects\VB Projects\Marks Reader\obj\Debug\Marks Reader.pdb
